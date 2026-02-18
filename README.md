@@ -1,4 +1,4 @@
-## 🧑🏾‍💻 Olá, Sou a Deyse! :)
+##  Olá, Eu sou a Deyse! 🤩
 
 Atuo com dados no dia a dia, construindo dashboards e soluções em Power BI para diferentes áreas do negócio.
 
