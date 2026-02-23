@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Eu sou a Deyse! 🤩</h2>
+<h2 align="left">Olá, Eu sou a Deyse! 😄</h2>
 
 Atuo com dados no dia a dia, construindo dashboards e soluções em Power BI para diferentes áreas do negócio.
 
