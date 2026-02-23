@@ -8,7 +8,6 @@ Nos últimos meses, venho aprofundando meus estudos em análise de dados e evolu
 
 Busco crescer como Analista de Dados e, no longo prazo, evoluir para Ciência de Dados.
 
-
 ###
 
 <br clear="both">
